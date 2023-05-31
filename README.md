@@ -1,66 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+-----BEGIN OPENSSH PRIVATE KEY-----
+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
+-----END OPENSSH PRIVATE KEY-----
